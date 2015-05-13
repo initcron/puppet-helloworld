@@ -4,7 +4,7 @@
     owner  => 'root',
     group  => 'root',
     mode    => 0644,
-    content => "hello, differnt world!\n",
+    content => "hello, environment1 !\n",
     }
 
  }

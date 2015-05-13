@@ -1,3 +1,3 @@
 class helloworld{
-  notify { 'hello, differnt world!': }
+  notify { 'hello, environment1 !': }
 }
